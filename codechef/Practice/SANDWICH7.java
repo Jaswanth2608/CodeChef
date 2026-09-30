@@ -2,8 +2,8 @@
 // Platform: codechef
 // Language: Java​
 // Verdict: Accepted
-// URL: https://www.codechef.com/START258D/problems/SANDWICH7?tab=statement
-// Solved on: 2026-09-30T14:54:06.254Z
+// URL: https://www.codechef.com/START258D/problems/SANDWICH7
+// Solved on: 2026-09-30T15:02:22.022Z
 
 import java.util.*;
 import java.lang.*;
