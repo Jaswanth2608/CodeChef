@@ -3,17 +3,6 @@
 // Language: Java​
 // Verdict: Accepted
 // URL: https://www.codechef.com/START263D/problems/FIVECOIN
-// Solved on: 2026-11-04T15:38:39.945Z
+// Solved on: 2026-11-04T15:47:17.604Z
 
-import java.util.*;
-import java.lang.*;
-import java.io.*;
-
-class Codechef
-{
-	public static void main (String[] args) throws java.lang.Exception
-	{
-		// your code goes here
-
-	}
-}
+// source not captured automatically - open the solution page and copy it manually
