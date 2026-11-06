@@ -1,0 +1,8 @@
+// Problem: Two Dishes
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/viewsolution/85686642
+// Solved on: 2026-11-06T08:00:28.407Z
+
+// source not captured automatically - open the solution page and copy it manually
