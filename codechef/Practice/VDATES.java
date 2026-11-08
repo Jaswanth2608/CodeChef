@@ -3,7 +3,7 @@
 // Language: Java​
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/VDATES
-// Solved on: 2026-11-06T07:44:31.086Z
+// Solved on: 2026-11-08T14:22:06.335Z
 
 import java.util.*;
 import java.lang.*;
