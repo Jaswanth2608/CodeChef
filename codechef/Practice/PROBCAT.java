@@ -3,7 +3,7 @@
 // Language: Java​
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/PROBCAT
-// Solved on: 2026-11-07T12:36:27.710Z
+// Solved on: 2026-11-08T14:21:20.726Z
 
 import java.util.*;
 import java.lang.*;
