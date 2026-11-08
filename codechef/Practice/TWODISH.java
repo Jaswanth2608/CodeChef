@@ -2,8 +2,8 @@
 // Platform: codechef
 // Language: Java​
 // Verdict: Accepted
-// URL: https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/TWODISH?tab=statement
-// Solved on: 2026-11-06T08:07:22.691Z
+// URL: https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/TWODISH
+// Solved on: 2026-11-08T14:21:03.968Z
 
 import java.util.*;
 import java.lang.*;
