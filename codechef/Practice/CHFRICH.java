@@ -3,7 +3,7 @@
 // Language: Java​
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/CHFRICH
-// Solved on: 2026-11-08T14:22:19.524Z
+// Solved on: 2026-11-09T16:56:46.873Z
 
 import java.util.*;
 import java.lang.*;
